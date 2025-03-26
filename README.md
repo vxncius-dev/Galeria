@@ -37,4 +37,4 @@ These features are in the brainstorming phase and could be added to future versi
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0 - see the LICENSE file for details.
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
