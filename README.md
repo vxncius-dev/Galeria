@@ -16,9 +16,11 @@
 
 ### Upcoming Features:
 - **Video & Image Editors**: Advanced tools to edit photos and videos. (In progress)
+  - using: pro_image_editor: ^9.3.0 and video_editor: ^3.0.0
 - **Subtitles for Videos**: Add subtitles to your video content. (In progress)
 - **Cloud Synchronization**: Sync your files with popular cloud services, such as Google Drive, Google Photos, OneDrive, Mega, etc. (Planned)
 - **Chromecast Support**: Stream videos directly to your TV or Chromecast-enabled device. (Planned)
+  - using: cast: ^2.1.0
 - **Picture-in-Picture Mode**: Watch videos in a floating window while browsing other content. (Planned)
 - **Video Speed Control**: Adjust the playback speed of videos. (Planned)
 - **Remove Image Background**: Automatically remove the background from images. (Planned)
